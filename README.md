@@ -1,1 +1,3 @@
-"# java-conference-mvc-thymeleaf" 
+"# java-conference-mvc-thymeleaf"
+
+thymeleaf template usage
